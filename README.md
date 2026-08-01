@@ -32,7 +32,7 @@ The model can recognize the following emotions:
 ## Project Structure
 
 ```text
-Emtions-Detection-from-Textual-Data/
+Emotions-Detection-from-Textual-Data/
 │
 ├── README.md
 ├── requirements.txt
